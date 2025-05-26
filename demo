@@ -1,1 +1,16 @@
 angel antonio vela bazan
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Hola Mundo</title>
+    <style>
+        h1 {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Hola Mundo!</h1>
+</body>
+</html>
